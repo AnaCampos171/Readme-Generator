@@ -55,7 +55,7 @@ const questions = [
 // Create a function to write README file
 function writeToFile(fileName, data) {
   fs.writeFile(fileName, data, (err) =>
-    err ? console.error(err) : console.log('README file created!')
+    err ? console.error(err) : console.log('README file created successfully!')
   );
 }
 // Create a function to initialize app

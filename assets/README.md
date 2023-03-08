@@ -29,3 +29,5 @@ N/A
 ## Link to deployed application: 
 
 https://anacampos171.github.io/ReadmeGenerator/
+
+## Link to a video walkthrough demonstrating the Readme Generator App Functionality: 
