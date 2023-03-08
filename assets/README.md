@@ -13,14 +13,14 @@ A new README.md file is generated from a user's input using the [Inquirer packag
 node index.js
 ```
 ## Usage
+
 - User is presented with a command line application that accepts user input.
 - User is prompted for information about their application repository, and a  professional README.md is generated with the project title and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions  filled in with the user's responses. 
 - A user can click on the items in their Table of Contents, and be taken to the corresponding section of their README file.
 - This image shows the command line functionality of the application:
-![Readme-Generator-CLI](assets/Readme-Generator-CLI.png)
 
+![Alt text](../example.png)
 
- 
 ## Credits
 Many Thanks to the UCR Coding Bootcamp Academic team and my wonderful classmates for supporting me through my coding journey!
 ## License
