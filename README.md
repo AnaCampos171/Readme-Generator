@@ -19,7 +19,7 @@ node index.js
 - A user can click on the items in their Table of Contents, and be taken to the corresponding section of their README file.
 - This image shows the command line functionality of the application:
 
-![Alt text](../example.png)
+![Alt text](./example.png)
 
 ## Credits
 Many Thanks to the UCR Coding Bootcamp Academic team and my wonderful classmates for supporting me through my coding journey!
