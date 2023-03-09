@@ -26,9 +26,7 @@ Many Thanks to the UCR Coding Bootcamp Academic team and my wonderful classmates
 ## License
 
 N/A
-## Link to deployed application: 
 
-https://anacampos171.github.io/ReadmeGenerator/
 
 ## Link to a video walkthrough demonstrating the Readme Generator App Functionality: 
 https://drive.google.com/file/d/1Y-zOkdBT-RGHaZh_vJGGlRFmaE_NYmcM/view
