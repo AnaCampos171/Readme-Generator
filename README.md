@@ -24,11 +24,11 @@ node index.js
 ## Credits
 Many Thanks to the UCR Coding Bootcamp Academic team and my wonderful classmates for supporting me through my coding journey!
 ## License
-
 N/A
-## Link to deployed application: 
 
-https://anacampos171.github.io/Readme-Generator/
+## Link to Github repository: 
+
+https://github.com/AnaCampos171/Readme-Generator
 
 ## Link to a video walkthrough demonstrating the Readme Generator App Functionality: 
 https://drive.google.com/file/d/1Y-zOkdBT-RGHaZh_vJGGlRFmaE_NYmcM/view
